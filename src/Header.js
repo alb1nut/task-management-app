@@ -8,7 +8,7 @@ const Header = () => {
       <Flex>
         <Box bg="green.900" w="100vw" p={2} color="white">
           <Center>
-            <Heading>ToDo List</Heading>
+            <Heading>Task Manager</Heading>
           </Center>
         </Box>
       </Flex>
